@@ -6,7 +6,7 @@ to analyze it. The project is part of an exercise to practice working with
 real-world data in R markdown.
 
 ## Files Included
-- 'Class 1 Survey Fall 2025 2.csv': Raw data version of the Class 1 survey dataset
+- class_1_survey_fall_2025.csv: Raw data version of the Class 1 survey dataset
 - 'C1Survey.Rmd': R script used to summarize and visualize the data
 - 'README.md'
 
